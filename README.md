@@ -7,7 +7,7 @@
 
 ---
 
-🌟 **About Me**
+**About Me**
 - 👨‍💻 I’m currently pursuing **B.E. in Computer Science Engineering** at Mahendra Engineering College, Tamil Nadu.
 - 🌐 Passionate about **Full Stack Web Development**, **Cloud Computing**, and **DevOps**.
 - ☁️ Currently learning **Google Cloud** & **AWS**.
@@ -28,3 +28,5 @@ Database:        MongoDB | MySQL | PostgreSQL | SQLite
 DevOps Tools:    Docker | Docker Compose | Git | GitHub | CI/CD
 Cloud:           Google Cloud | AWS (learning) | Salesforce Platform
 Others:          VS Code | Ubuntu | Excel | Qlik | Postman
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karthikeyan-code&show_icons=true&theme=tokyonight" alt="Karthikeyan's GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeyan-code&theme=tokyonight" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyan-code&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
