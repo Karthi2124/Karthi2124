@@ -7,18 +7,18 @@
 
 ---
 
-🌟 **About Me**
-- 👨‍💻 I’m currently pursuing **B.E. in Computer Science Engineering** at Mahendra Engineering College, Tamil Nadu.
-- 🌐 Passionate about **Full Stack Web Development**, **Cloud Computing**, and **DevOps**.
-- ☁️ Currently learning **Google Cloud** & **AWS**.
-- 🐳 Exploring Docker, Kubernetes & CI/CD tools in my **DevOps 90-Day Challenge**.
-- 🤖 Building an advanced **Healthcare Assistant Bot** using Java, Flask, MongoDB, and React.js.
-- 🧠 Completed 100 Days of LeetCode & building a coding practice website.
-- 🎓 Completed internships in **Salesforce**, **Full Stack Development**, and **Cloud Computing**.
+ **About Me**
+- I’m currently pursuing **B.E. in Computer Science Engineering** at Mahendra Engineering College, Tamil Nadu.
+- Passionate about **Full Stack Web Development**, **Cloud Computing**, and **DevOps**.
+- Currently learning **Google Cloud** & **AWS**.
+- Exploring Docker, Kubernetes & CI/CD tools in my **DevOps 90-Day Challenge**.
+-  Building an advanced **Healthcare Assistant Bot** using Java, Flask, MongoDB, and React.js.
+- Completed 100 Days of LeetCode & building a coding practice website.
+- Completed internships in **Salesforce**, **Full Stack Development**, and **Cloud Computing**.
 
 ---
 
-🚀 **Tech Stack & Tools**
+ **Tech Stack & Tools**
 
 ```bash
 Languages:       Java | Python | JavaScript | HTML | CSS | Bash
